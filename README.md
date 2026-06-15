@@ -168,17 +168,6 @@ The web dashboard supports:
 
 **School of Computing and Electrical Engineering, IIT Mandi**
 
-| Name | Department |
-|---|---|
-| Navdeep Singh | PhD, Mechanical Engineering |
-| Shriyaansh Gupta | B.Tech, Computer Science Engineering |
-| Vansh Goel | B.Tech, Data Science and Engineering |
-| Taneshq Gupta | B.Tech, Computer Science Engineering |
-| Rohan Aggarwal | B.Tech, Data Science and Engineering |
-| Navedhya Goyal | B.Tech, Mechanical Engineering |
-| Ojas More | B.Tech, Electrical Engineering |
-| Himanshi | B.Tech, Engineering Physics |
-
 **Advisors:** Dr. Rohit Saluja, Dr. Gajendra Singh
 
 ---
