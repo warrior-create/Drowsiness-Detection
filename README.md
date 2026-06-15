@@ -164,8 +164,6 @@ The web dashboard supports:
 
 ---
 
-## Team
-
 **School of Computing and Electrical Engineering, IIT Mandi**
 
 **Advisors:** Dr. Rohit Saluja, Dr. Gajendra Singh
